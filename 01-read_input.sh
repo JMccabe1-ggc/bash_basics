@@ -14,4 +14,4 @@ echo 'Your name was stored in $name'
 echo "Please enter a file name:"
 read filename
 touch "$filename"
-echo "Created empty file called $filename"
+echo "Created empty file called $filename part 2"
