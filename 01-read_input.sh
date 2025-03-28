@@ -15,3 +15,4 @@ echo "Please enter a file name:"
 read filename
 touch "$filename"
 echo "Created empty file called $filename part 2"
+echo "Create conflict"
